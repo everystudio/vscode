@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Monokai",
+
+    "background.customImages": [
+        "https://raw.githubusercontent.com/everystudio/vscode/master/background_images/chara001_00.png",
+        "https://raw.githubusercontent.com/everystudio/vscode/master/background_images/chara005_00.png",
+        "https://raw.githubusercontent.com/everystudio/vscode/master/background_images/chara055_00.png",
+    ],
+    "background.enabled": true,
+    "background.style": {
+        "background-position": "90% 100%",
+        "background-size": "40%",
+        "opacity": 0.3
+    },
+    "background.useDefault": false,
+
+    "background.useFront": false ,
+
+}
